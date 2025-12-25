@@ -64,3 +64,9 @@ The pipeline fails immediately if any step breaks, ensuring fast feedback to dev
 3. View build logs and test results in Jenkins UI  
 
 ---
+
+
+<img width="2560" height="3908" alt="image" src="https://github.com/user-attachments/assets/73e37606-27b5-44b9-a464-b61199ae0ce1" />
+
+
+---
